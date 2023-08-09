@@ -18,5 +18,4 @@
 7. In Developer options; Turn On
 8. Turn on USB debugging 
 9. Pop up should appear on phone to allow USB debugging
-
-10. In Android Studio select your device: Run app; app should run on physical phone/device; click stop button to exit
+10. In Android Studio, select your device: Run app; app should run on physical phone/device; click stop button to exit
