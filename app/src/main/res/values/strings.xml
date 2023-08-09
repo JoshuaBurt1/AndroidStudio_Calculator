@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JoshuaBurt_COMP1011Sec005_Lab04</string>
+    <string name="btnAddText">PLUS</string>
+    <string name="btnSubText">MINUS</string>
+</resources>
